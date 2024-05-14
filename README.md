@@ -56,7 +56,7 @@
 
    
    -Life sciences comprises of fairly bigger share in EducationField
-   ![image](https://github.com/Abhishekmth/Sales-Data-Analysis/assets/64078831/6393b26c-5196-45ce-b28e-e2969fde60f9)
+   ![image](LifeSciences.png)
    
 
    -Average age of all the employees is 37 years
