@@ -49,7 +49,7 @@
 ### Results
    The analysis results are summarised as follows:
    -'Overall Attrition% is currently at 17% and Attrition% for job role Sales Representatiove is significantly higher than other segments at 37.78%
-   ![image](https://github.com/Abhishekmth/Sales-Data-Analysis/assets/64078831/1805fcbf-d16d-4b13-8539-a26a8e5f5d09)
+   ![image](Attrition.png)
 
    -Job Satisfaction share for HR is lesser than other positions
    ![image](https://github.com/Abhishekmth/Sales-Data-Analysis/assets/64078831/c30efc54-9c39-4512-bfc1-46406a557406)
