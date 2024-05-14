@@ -52,7 +52,7 @@
    ![image](Attrition.png)
 
    -Job Satisfaction share for HR is lesser than other positions
-   ![image](https://github.com/Abhishekmth/Sales-Data-Analysis/assets/64078831/c30efc54-9c39-4512-bfc1-46406a557406)
+   ![image](Hr.png)
 
    
    -Life sciences comprises of fairly bigger share in EducationField
@@ -60,7 +60,7 @@
    
 
    -Average age of all the employees is 37 years
-   ![image](https://github.com/Abhishekmth/Sales-Data-Analysis/assets/64078831/a475c813-1ff5-4e92-afbb-303fe1bec897)
+   ![image](age.png)
 
 
 ### Recommendations
