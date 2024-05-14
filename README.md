@@ -71,7 +71,6 @@
      -Imbalance in salaries i.e wide gap between maximum and minimum salary
 
 ### Limitations
-   I had to remove all zero values from quantity and profit columns because they would have affected the accuracy of my conclusuions from the analysis . there are still a few
-  outliners even after the omissions but even then we can sill see there is a positive trend.
+   Null values were present and affect data analysis.Salary disparities are there, job disastisfaction is not encouraging as well.The specific field strength like that of technical and HR is fairly in comparison with other verticals.
 
 
