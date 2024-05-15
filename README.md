@@ -71,6 +71,8 @@
      -Imbalance in salaries i.e wide gap between maximum and minimum salary
 
 ### Limitations
-   Null values were present and affect data analysis.Salary disparities are there, job disastisfaction is not encouraging as well.The specific field strength like that of technical and HR is fairly in comparison with other verticals.
+   Null values were present and affect data analysis.Salary disparities are there, job disastisfaction is not encouraging as well.
+   The average age of the workforce is 37 years, a bit younger workforce will gain experience from this workforce and might boost productivity
+   The specific field strength like that of technical and HR is fairly in comparison with other verticals.
 
 
